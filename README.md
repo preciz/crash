@@ -1,4 +1,4 @@
-# crash - This crashes something somewhere
+# crash - This llama.cpp setup crashes something somewhere
 
 ## Steps
 
